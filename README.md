@@ -1,3 +1,15 @@
+Frontend
+
+- Dev: npm start
+- Build: npm run build (outputs to dist/)
+- Preview: npm run serve
+
+Vercel settings:
+- Framework: Vite
+- Build Command: npm run build
+- Output Directory: dist
+- Install Command: npm ci (or npm install)
+- Root Directory: frontend
 # React
 
 A modern React-based project utilizing the latest frontend technologies and tools for building responsive web applications.
